@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Naruto Uzumaki",
+        "Village": "Hidden Leaf",
+        "Attack": "Rasengan",
+        "Quote": "'I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!'",
+        "imageUrl": "https://i.pinimg.com/564x/f8/65/05/f8650575af461b7e87757ce6f9f0d631.jpg"
+    },
+    {
+        "Name": "Sasuke Uchiha",
+        "Village": "Hidden Leaf",
+        "Attack": "Chidori",
+        "Quote": "'I understand now. Even if I must take the Devil's fruit, I must gain power. I am an avenger.'",
+        "imageUrl": "https://i.pinimg.com/564x/81/3e/bf/813ebfaf11711f7079dfa806c9d5f944.jpg"
+    },
+    {
+        "Name": "Kakashi Hatake",
+        "Village": "Hidden Leaf",
+        "Attack": "Chidori",
+        "Quote": "'The hole in one's heart gets filled by others around you. As long as you don't give up, there will always be salvation.'",
+        "imageUrl": "https://i.pinimg.com/564x/8d/77/47/8d77471957e03d68e7058699bd8f63d1.jpg"
+    },
+    {
+        "Name": "Might Guy",
+        "Village": "Hidden Leaf",
+        "Attack": "Eight Gates",
+        "Quote": "'It's not always possible to do what we want to do, but it's important to believe in something before you actually do it.'",
+        "imageUrl": "https://i.pinimg.com/564x/f0/9c/e6/f09ce609a1ed3443953f2ce45de54cfd.jpg"
+    },
+    {
+        "Name": "Gaara",
+        "Village": "Hidden Sand",
+        "Attack": "Sand Manipulation",
+        "Quote": "'Just because someone is important to you, it doesn't necessarily mean that, that person is good. Even if you knew that person was evil... People cannot win against their loneliness.'",
+        "imageUrl": "https://i.pinimg.com/564x/2c/23/12/2c2312373d41eecf9b2fa6681f09160d.jpg"
+    },
+{
+        "Name": "Kabuto Yakushi",
+        "Village": "None(Orphaned)",
+        "Attack": "Dead Soul Technique",
+        "Quote": "'Little kids think life is so easy. That's why they go on and on about their dreams. That's why they never give up.'",
+        "imageUrl": "https://i.pinimg.com/564x/00/88/e7/0088e7aaa5c6f262745b75582d886df4.jpg"
+    },
+    {
+        "Name": "Deidara",
+        "Village": "Hidden Stone",
+        "Attack": "Explosive Clay",
+        "Quote": "'True art is an explosion!'",
+        "imageUrl": "https://i.pinimg.com/564x/a5/5e/77/a55e77e7188081a0a8db02b1f22175dc.jpg"
+    },
+{
+        "Name": "Madara Uchiha",
+        "Village": "Hidden Leaf(Co-Founder)",
+        "Attack": "Mangekyō Sharingan",
+        "Quote": "'Thinking of peace whilst spilling blood is something that only humans could do. They're two sides of the same coin... to protect something... another must be sacrificed.'",
+        "imageUrl": "https://i.pinimg.com/564x/aa/7f/73/aa7f73ee3316f25576e64446735e242d.jpg"
+    }
+]

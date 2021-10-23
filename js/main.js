@@ -8,6 +8,9 @@ const output = (characters) => {
           let name = document.createElement('h2');
           name.textContent = character.Name;
 
+          let village = document.createElement('h4');
+          village.textContent = `Village: ${character.Village}`;
+
           let attack = document.createElement('h4');
           attack.textContent = `Attack: ${character.Attack}`;
 
@@ -19,6 +22,7 @@ const output = (characters) => {
           img.setAttribute('alt', character.Name);
 
           article.appendChild(name);
+          article.appendChild(village);
           article.appendChild(attack);
           article.appendChild(img);
           article.appendChild(quote);
@@ -28,7 +32,7 @@ const output = (characters) => {
   );
 }    
 
-fetch('https://run.mocky.io/v3/2abdcd1e-8297-40ac-af98-21016f008a2e')
+fetch('https://run.mocky.io/v3/d7988091-9fcc-461a-9e64-a5d6091e4279')
     .then(response => response.json())
     .then(characters => {
         characterList = characters;
