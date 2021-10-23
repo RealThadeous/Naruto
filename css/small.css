@@ -1,0 +1,28 @@
+body {
+    font-family: 'Kalam', cursive;
+    background-color: lightblue;
+    max-width: 960px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+#characters {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    margin: 0 auto;
+    text-align: center;
+}
+article {
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1em;
+    background-color: white;
+}
+img {
+    width: 50%;
+}
